@@ -1,6 +1,7 @@
 # Netflix-Data-Dashboard 
 ---
 <P>A modern, interactive web application that analyzes YouTube playlists and provides insightful, AI-powered analytics in a sleek, dark-themed dashboard. This project leverages the YouTube Data API and Hugging Face's summarization model to deliver a comprehensive overview of any public or unlisted YouTube playlist.</P>
+
 ---
 
 ## Features
